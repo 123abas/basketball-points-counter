@@ -85,7 +85,7 @@ class _PointsCounterState extends State<PointsCounter> {
                 ),
 
                 SizedBox(
-                  height: 450,
+                  height: 455,
                   child: VerticalDivider(color: Colors.grey, thickness: 1),
                 ),
                 Column(
